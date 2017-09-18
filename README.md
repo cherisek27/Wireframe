@@ -1,16 +1,8 @@
-## Week 1 (Easier) Assignment - Building a Wireframe
+Building a Wireframe
 
 ### Overview
 
-In this assignment, you will build a web design skeleton using HTML/CSS. Your completed work should look just like the image below:
-
-![Final Layout](Images/Easier-Layout.png)
-
-### Student Notes
-
-* This exercise will challenge most students unfamiliar with HTML/CSS. If you see this task as too simple or if you finish it within three hours, attempt the second homework assignment. 
-
-* Just because this is the "easier" assignment does not make it the "quick" one. The process of learning web development is nothing without a serious time investment. While the work may seem strenuous now, you'll find yourself becoming more comfortable with web development as you put more hours into your training.
+A web design skeleton using HTML/CSS. 
 
 ### Instructions
 
@@ -58,20 +50,6 @@ In this assignment, you will build a web design skeleton using HTML/CSS. Your co
    * font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
    * font-size: 18px
 
-### Helpful Hints
 
-* For a refresher on working with Git and GitHub, consult the GitHub Supplemental Guide we sent you in class.
-* Don't forget to review these concepts: `float`, `padding`, `margin`, `display`, `overflow`, `clear` and `text-align`.
-* This will be a tough assignment. But 23 weeks from now, you'll look back to this exercise and realize just how much you've grown as a developer. Stay positive! 
 
-- - -
 
-### One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-**Good Luck!**
-
-## Copyright
-
-Coding Boot Camp © 2016. All Rights Reserved.
